@@ -11,6 +11,8 @@ An Android app with a team of AI agents and a coin-shaped mascot that reacts to 
   <img src="images/widget.png" width="420" alt="Fin home-screen widget showing You owe ₹1,200 and You're owed ₹2,450" />
 </p>
 
+> **[Try the live demo](https://saipranav13188.github.io/fin-showcase/)**, no sign-up needed.
+>
 > This page shows the project. The source code is kept in a private repository and is not available for
 > download. See [LICENSE](LICENSE).
 
