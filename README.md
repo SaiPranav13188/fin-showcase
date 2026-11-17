@@ -13,8 +13,8 @@ An Android app with a team of AI agents and a coin-shaped mascot that reacts to 
 
 > **[Try the live demo](https://saipranav13188.github.io/fin-showcase/)**, no sign-up needed.
 >
-> This page shows the project. The source code is kept in a private repository and is not available for
-> download. See [LICENSE](LICENSE).
+> Source code: [SaiPranav13188/fin](https://github.com/SaiPranav13188/fin). It is viewable but not open source;
+> see [LICENSE](LICENSE).
 
 ## What it does
 
